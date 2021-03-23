@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Dropdown Menu</title>
+  <link rel="stylesheet" href="menu-styles.css">
+  <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+  
+</head>
+<body>
+  <div class="contenedor-menu">
+    <nav>
+      <input type="checkbox" id="show-search">
+      <!--menu-->
+      <input type="checkbox" id="show-menu">
+      <label for="show-menu" class="menu-icon">
+        <i class="fas fa-bars"></i>
+      </label>
+
+    <!--Content-->
+      <div class="content">
+      <div class="logo"><a href="#">HelloMoto</a></div>
+        <ul class="links">
+        <!--main-->
+          <li><a href="#">Home</a></li>
+        <!--main-->
+          <li><a href="#">About</a></li>
+          
+          <!--main-->
+          <li>
+            <a href="#" class="desktop-link">Features</a>
+            <input type="checkbox" id="show-features">
+            <label for="show-features">Features</label>
+            <!--second-->
+            <ul>
+              <li><a href="#">Drop Menu 1</a></li>
+              <li><a href="#">Drop Menu 2</a></li>
+              <li><a href="#">Drop Menu 3</a></li>
+              <li><a href="#">Drop Menu 4</a></li>
+            </ul>
+          </li>
+
+          <!--main-->
+          <li>
+            <a href="#" class="desktop-link">Services</a>
+            <input type="checkbox" id="show-services">
+            <label for="show-services">Services</label>
+            <!--second-->
+            <ul>
+              <li><a href="#">Drop Menu 1</a></li>
+              <li><a href="#">Drop Menu 2</a></li>
+              <li><a href="#">Drop Menu 3</a></li>
+              <li>
+                <a href="#" class="desktop-link">More Items</a>
+                <input type="checkbox" id="show-items">
+                <label for="show-items">More Items</label>
+                <!--tercereishon-->
+                <ul>
+                  <li><a href="#">Sub Menu 1</a></li>
+                  <li><a href="#">Sub Menu 2</a></li>
+                  <li><a href="#">Sub Menu 3</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+
+          <!--main-->
+          <li><a href="#">Feedback</a></li>
+        </ul>
+      </div>
+      
+      <!--boton de busqueda-->
+      <label for="show-search" class="search-icon">
+        <i class="fas fa-search"></i>
+      </label>
+
+      <!--Search-->
+      <form action="#" class="search-box">
+        <input type="text" placeholder="Type Something to search..." required>
+        <button type="submit" class="go-icon">
+            <i class="fas fa-long-arrow-alt-right"></i>
+        </button>
+      </form>
+    </nav>
+  </div>
+</body>
+</html>
