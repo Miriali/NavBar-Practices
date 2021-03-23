@@ -42,5 +42,5 @@ Among the prractices you will find:
 
 ### Stay In Touch :v:
 
-- [Codepen](https://codepen.io/your-work/) 
-- [Twitter](https://twitter.com/miricailopez)
+- [Codepen](https://codepen.io/Miriali) 
+- [Twitter](https://twitter.com/miriali_dev)
