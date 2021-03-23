@@ -8,22 +8,23 @@ In this repository you can find differents models of navigations bars, I hope th
 Among the prractices you will find:
 
 #### *- Cute-Menu* 
-![]()
+![](https://github.com/Miriali/NavBar-Practices/blob/main/Cute-Menu/MinImg.jpg?raw=true)
 
-#### *- Dropdown-Center* 
-![]()
+![](https://github.com/Miriali/NavBar-Practices/blob/main/Cute-Menu/MinImg-2.jpg?raw=true)
 
 #### *- Dropdown-Menu* 
-![]()
+![](https://github.com/Miriali/NavBar-Practices/blob/main/Dropdown-Menu/MinImg.jpg?raw=true)
 
 #### *- Minimal-Nav* 
-![]()
+![](https://github.com/Miriali/NavBar-Practices/blob/main/Minimal-Nav/MinImg.jpg?raw=true)
 
 #### *- Sidebar* 
-![]()
+![](https://github.com/Miriali/NavBar-Practices/blob/main/Sidebar/MinImg.jpg?raw=true)
+
+![](https://github.com/Miriali/NavBar-Practices/blob/main/Sidebar/MinImg-2.jpg?raw=true)
 
 #### *- Simple-Menu* 
-![]()
+![](https://github.com/Miriali/NavBar-Practices/blob/main/Simple-Menu/MinImg.jpg?raw=true)
 
 ### Built Using
 
